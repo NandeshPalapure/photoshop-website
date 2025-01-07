@@ -1,17 +1,25 @@
-#Photoshop Website Homepage
+# Photoshop Website Homepage
 
-This project is a simple homepage for a Photoshop-themed website, built using HTML and CSS. The design is modern, responsive, and user-friendly.
+This project is a simple homepage for a Photoshop-themed website, built using **HTML** and **CSS**. The design is modern, responsive, and user-friendly.
 
-##Technologies Used
-HTML5
-CSS3
+## Technologies Used
 
-##Folder Structure
+- **HTML5**  
+- **CSS3**
+
+## Folder Structure
+
+```
 project/
 ├── index.html       # Main HTML file
 ├── style.css        # CSS styling
 ├── images/          # Folder for images
 └── README.md        # Project documentation
+```
 
-##Preview
+## Preview
+
 Below is an example of what the homepage might look like:
+
+*(Add a screenshot of the homepage in the `images/` folder and include it here)*
+
